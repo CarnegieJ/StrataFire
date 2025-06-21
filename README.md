@@ -7,5 +7,5 @@ StrataFire is an Azure generative Al-powered wildfire resilience assistant that 
 
 Collaborators: [Yovana Calvo](https://github.com/cyberpunk-oss), [Carnegie Johnson](https://www.github.com/CarnegieJ)
 
-![/img/StrataFire_v3.png]
+<img href="/img/StrataFire_v3.png">
 
